@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main Activity Strings -->
+    <string name="app_name">Address Book</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="delete_contacts_dialog_title">Delete Message</string>
+    <string name="delete_contacts_dialog_message">WARNING: Confirm deletion for all contacts</string>
+
+    <!-- New Contact Activity Strings -->
+    <string name="title_activity_new_contact">New Contact</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="image_description">Contact Image</string>
+    <string name="change_contact_image">Change Image</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+
+    <!-- View Contact Activity Strings -->
+    <string name="title_activity_view_contact">ViewContactActivity</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="delete_dialog_title">Delete Message</string>
+    <string name="delete_dialog_message">WARNING: Confirm Contact Deletion</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all_contacts">Clear All Contacts</string>
+
+
+</resources>
